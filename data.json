@@ -1,0 +1,39 @@
+{
+  "profile": {
+    "name": "salam malekim",
+    "title": "Biologist",
+    "summary": "Innovative Biohacker and Synthetic Biologist with 10+ years of experience merging biotechnology with wearable tech..."
+  },
+  "contact": {
+    "phone": "+456-126-2875",
+    "email": "mister@gallaghergmail.com"
+  },
+  "education": [
+    {
+      "year": "2010-2014",
+      "school": "University of Science",
+      "field": "Biology"
+    }
+  ],
+  "skills": [
+    "Genetic Engineering",
+    "Biohacking",
+    "Lab Research"
+  ],
+  "languages": [
+    "English (Fluent)",
+    "Spanish (Native)"
+  ],
+  "work": [
+    {
+      "description": "Lead Biologist at Galaxy Labs, developing innovative biological solutions"
+    }
+  ],
+  "references": [
+    {
+      "name": "John Doe",
+      "title": "Professor",
+      "email": "john@university.edu"
+    }
+  ]
+}
